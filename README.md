@@ -2,7 +2,7 @@
 
 ### A decentralized chess tournament using GitHub and Travis CI.
 
-[![Build Status](https://travis-ci.org/geohot/battlechess.svg?branch=master)](https://travis-ci.org/geohot/battlechess) **Click the CI link for the latest battle results**
+[![Build Status](https://travis-ci.org/swapnildinkar/battlechess.svg?branch=master)](https://travis-ci.org/swapnildinkar/battlechess) **Click the CI link for the latest battle results**
 
 Currently, the engine makes random moves. Fork this, modify get_move in engine.py, and join the battle! play.py uses the GitHub API to look for forks on this repo, so once you fork it you are registered as a competitor.
 
