@@ -4,7 +4,7 @@ import time
 import random
 import chess
 
-MAX_DEPTH = 2
+MAX_DEPTH = 1
 MAX_TIME_MS = 10000
 DEBUG = 0
 
