@@ -129,7 +129,7 @@ if __name__ == "__main__":
       print("readyok")
     elif cmd[0] == "position":
       if cmd[1] == "startpos":
-        b = chess.board()
+        b = chess.Board()
         if len(cmd) > 2 and cmd[2] == "moves":
           for m in cmd[3:]:
             b.push(chess.Move.from_uci(m))
